@@ -7,10 +7,10 @@
         "babel-core": "^6.18.2",
         "crisper": "^2.0.1",
         "freshman": "^0.9.3",
-        "html-minifier": "^1.1.1",
-        "loader-utils": "~0.2.5",
-        "uglify-js": "^2.5.0",
-        "vulcanize": "^1.13.1"
+        "html-minifier": "^3.2.3",
+        "loader-utils": "~0.2.6",
+        "uglify-js": "^2.7.4",
+        "vulcanize": "^1.14.8"
     },
     "devDependencies": {
         "babel-cli": "^6.18.0",
